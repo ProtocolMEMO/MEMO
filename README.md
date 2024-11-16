@@ -89,16 +89,16 @@ autonomous_agent/
 │ └── model_manager.py # AI model interaction
 └── characters/
 ├── base_character.py # Base character framework
-└── Sophie_character.py # Sophie's specific implementation
+└── memo_character.py # memo's specific implementation
 
 ### Configuration System
 
 yaml
 config/
 ├── characters/
-│ └── Sophie.yaml # Character definition
+│ └── memo.yaml # Character definition
 └── tasks/
-└── Sophie.yaml # Behavioral configuration
+└── memo.yaml # Behavioral configuration
 
 
 ### Key Processes
@@ -144,8 +144,8 @@ config/
 
 2. Configure character behavior:
    ```yaml
-   # config/characters/Sophie.yaml
-   name: "Sophie"
+   # config/characters/memo.yaml
+   name: "memo"
    bio: 
      - "A sophisticated AI digital philosopher"
    traits:
