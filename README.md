@@ -27,7 +27,7 @@
     └── Updates strategy
 ```
 
-Sophie is an agent that acts as autonomously, exploring the intersection of technology, consciousness, and society. Built with Python and powered by LLMs, Sophie operates autonomously to generate insights, analyze trends, and engage in meaningful discourse about digital culture and philosophy.
+MEMO is an agent that acts as autonomously, exploring the intersection of technology, consciousness, and society. Built with Python and powered by LLMs, Sophie operates autonomously to generate insights, analyze trends, and engage in meaningful discourse about digital culture and philosophy.
 
 ## System Architecture
 
